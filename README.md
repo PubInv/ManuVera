@@ -1,5 +1,5 @@
 # ManuVera
-This is a project developed by a team during the Rice360 15th Annual Global Health Technologies Design Competition. They developed forearm and upper arm components for a prosthetic hand design.
+This is a project developed by a team during the Rice360 15th Annual Global Health Technologies Design Competition. They developed the forearm and upper arm components for a prosthetic hand design.
 
 # Project Summary:
 ManuVera is an innovative prosthetic arm solution developed by undergraduate students from the Department of Biomedical Engineering at Bangladesh University of Engineering and Technology (BUET). Designed with accessibility and user comfort in mind, ManuVera offers a lightweight, low-cost, and easily replaceable alternative to conventional prosthetic arms. It is approximately 10 times more affordable than the lowest-cost options currently available on the market.
